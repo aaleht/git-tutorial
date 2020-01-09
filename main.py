@@ -12,6 +12,6 @@ def divide(a, b):
 
 if __name__ == '__main__':
     a = 2
-    b = 3
+    b =43
     print(f'{a} * {b} == {multiply(a, b)}')
     print(f'{a} / {b} == {divide(a, b)}')
